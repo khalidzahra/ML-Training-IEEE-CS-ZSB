@@ -16,4 +16,19 @@ This repository contains all topics and exercises we used for machine learning t
             </ul>
         </td>    
     </tr>
+    <tr>
+        <th><strong>Task 2</strong></th>
+    </tr>
+    <tr>
+        <td>
+            <p>This task consisted of the following:</p>
+            <ul>
+                <li>Single variable Linear Regression</li>
+                <li>Multivariate Linear Regression</li>
+                <li>Gradient Descent</li>
+                <li>Random forest method</li>
+                <li>Decision tree method</li>
+            </ul>
+        </td>    
+    </tr>
 </table>
