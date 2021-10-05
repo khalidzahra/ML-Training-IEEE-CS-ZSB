@@ -69,7 +69,7 @@ print("Initial cost: " + str(costFunction(np.array(theta), np.array(x_train), np
 
 theta = train(np.array(theta), np.array(x_train), np.array(y_train), len(y_train))
 
-x_test, y_test = readData(DATASET_DIR, 0, 5011)
+x_test, y_test = readData(DATASET_DIR, TRAIN_AMOUNT, TRAIN_AMOUNT + TEST_AMOUNT + 11)
 
 predictions = predict(theta, np.array(x_test))
 
